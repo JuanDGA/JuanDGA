@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! I'm Juan David Guevara Arévalo (JuanDGA) 👋
+# Hi there! I'm Juan David Guevara Arévalo 👋
 
 <a href="https://www.jguevara.dev/"><img src="https://img.shields.io/badge/Website-jguevara.dev-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Personal Website"></a>
 <a href="https://www.linkedin.com/in/jguevaradev/"><img src="https://img.shields.io/badge/LinkedIn-jguevaradev-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
